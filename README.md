@@ -57,7 +57,7 @@ This bot uses the [OpenAI Python Library](https://github.com/openai/openai-pytho
 1. If you want to change the personality of the bot, go to `src/config.yaml` and edit the instructions
 1. If you want to change the moderation settings for which messages get flagged or blocked, edit the values in `src/constants.py`. A lower value means less chance of it triggering.
 
-# FAQ
+# FAQ 
 
 > Why isn't my bot responding to commands?
 
